@@ -1,6 +1,6 @@
 # Portfólio Profissional
 
-Este é um portfólio profissional moderno e responsivo, desenvolvido com HTML, CSS e JavaScript puros. O projeto foi criado para apresentar habilidades, projetos e experiências de forma atrativa para recrutadores.
+Este é um portfólio profissional moderno e responsivo, desenvolvido com HTML, CSS e JavaScript. O projeto foi criado para apresentar habilidades, projetos e experiências de forma atrativa.
 
 ## 🚀 Características
 
